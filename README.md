@@ -23,18 +23,6 @@
   
 </div>
 
-## 🏆 Hackathon Victory!
-
-<div align="center">
-  <img src="docs/assets/hackathon-winner.jpeg" alt="HackTheBrain 2025 Winner" width="800"/>
-  
-  ### 🎉 Winner of HackTheBrain 2025
-  **Category: Community – Newcomers & Access to White-Collar Work**
-  
-  We're thrilled to announce that TalentUnlock won first place at HackTheBrain 2025! Our solution for helping skilled immigrants translate their international experience into Canadian job opportunities stood out among fierce competition. This victory validates our mission to break down barriers and create meaningful impact in the lives of newcomers to Canada.
-
-  <img src="docs/assets/group-with-volunteer.jpeg" alt="HackTheBrain 2025 Winner" width="800"/>
-</div>
 
 ## 🌟 Project Overview
 
