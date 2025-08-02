@@ -1,0 +1,33 @@
+You're helping with an AI research project on interview posture analysis! 
+
+WHAT YOU'LL DO:
+- Record yourself doing 10 different postures/expressions
+- 500 samples per posture (about 5-8 minutes each)
+- Total time: ~2.5 hours (can be split across multiple days)
+
+SETUP:
+1. Good lighting on your face
+2. Sit in front of camera (upper body visible)
+3. Comfortable chair
+4. Follow the detailed instructions shown on screen
+
+YOUR TARGET: 5,000 samples total
+PROJECT GOAL: 25,000 samples from 5 people
+
+CONTROLS:
+- 'p' = pause/resume
+- 'q' = quit and save progress  
+- 'n' = next posture
+- 'spacebar' = Start
+
+The system automatically saves only high-quality data, so just focus on following the posture instructions!
+
+Install the libraries in first line of code
+When ready, run in terminal: python Optimized_Data_Collector.py
+Enter your username: "Your Initials"
+Choose option 2: Balanced collection session
+Follow the instruction in terminal for Pose details.
+
+
+Deliverables: 
+1 folder with all the CSV files: 10 files required. Save the folder name with "YourInitials_data". Upload to GitHub in designated folder.
